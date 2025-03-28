@@ -1,0 +1,4 @@
+node_modules/
+tasks.db
+package-lock.json
+*.bat
